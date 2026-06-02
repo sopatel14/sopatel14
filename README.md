@@ -12,7 +12,17 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Status |
+|---|---|
+| Microsoft Azure Fundamentals (AZ-900) | ✅ Certified |
+| AWS Cloud Practitioner (CLF-C02) | 🔄 In progress |
 
 ---
 
@@ -22,9 +32,10 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 |--------|-------|
 | ✅ Done | Linux fundamentals, shell scripting, Git basics |
 | 🔄 Revisiting | Docker — rebuilding from scratch, properly this time |
-| ⏳ Up next | Jenkins CI/CD pipelines & shared libraries |
+| 🔄 In progress | AWS Cloud Practitioner certification |
+| ⏳ Up next | Jenkins CI/CD pipelines |
 | ⏳ Up next | Kubernetes — pods, deployments, services |
-| ⏳ Up next | Terraform & AWS cloud infrastructure |
+| ⏳ Up next | Terraform & infrastructure as code |
 | ⏳ Up next | Monitoring — Prometheus & Grafana |
 
 ---
