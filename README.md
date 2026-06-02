@@ -43,6 +43,7 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 ## 📌 Featured projects
 
 → **[nodejs-getting-started](https://github.com/sopatel14/nodejs-getting-started)** — Node.js app deployed via Jenkins CI/CD pipeline to AWS EC2 using Docker
+
 → **[Devops-2025-90DaysChallenge](https://github.com/sopatel14/Devops-2025-90DaysChallenge)** — Daily notes & exercises from a structured 90-day DevOps program
 
 ---
