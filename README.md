@@ -1,6 +1,6 @@
-# Hi, I'm Sourav 👋
+# Hi, I'm Sourav Patel 👋
 
-IT Support professional transitioning into DevOps — rebuilding my foundations properly and documenting the journey publicly.
+IT Support professional transitioning into DevOps — rebuilding my foundations properly and documenting the journey publicly. With 2+ years of experience in IT infrastructure support, service desk operations, and system administration, I've worked as a central point of contact while ensuring zero downtime in production environments. Now I'm channeling that hands-on operational background into DevOps, learning the tools and practices to automate and scale what I used to do manually.
 
 ---
 
