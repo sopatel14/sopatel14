@@ -1,17 +1,33 @@
-# Hi, I'm Sourav Patel 👋
+# Hi, I'm Sourav 👋
 
 IT Support professional transitioning into DevOps — rebuilding my foundations properly and documenting the journey publicly.
 
+---
+
 ## 🛠 Skills & Tools
-Linux · Docker · Jenkins · Kubernetes · Shell Scripting · Git · Azure · AWS
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
 
 ## 🏅 Certifications
+
 | Certificate | Status |
 |---|---|
 | Microsoft Azure Fundamentals (AZ-900) | ✅ Certified |
 | AWS Cloud Practitioner (CLF-C02) | 🔄 In progress |
 
+---
+
 ## 🗺 DevOps Roadmap
+
 | Status | Topic |
 |---|---|
 | ✅ Done | Linux fundamentals, shell scripting, Git basics |
@@ -21,6 +37,8 @@ Linux · Docker · Jenkins · Kubernetes · Shell Scripting · Git · Azure · A
 | ⏳ Up next | Kubernetes — pods, deployments, services |
 | ⏳ Up next | Terraform & infrastructure as code |
 | ⏳ Up next | Monitoring — Prometheus & Grafana |
+
+---
 
 ## 📌 Featured Repos
 - **[90 Days of DevOps – 2026](https://github.com/sopatel14/90DaysOfDevOps/tree/master/2026)** — daily progress through a structured 90-day DevOps challenge
