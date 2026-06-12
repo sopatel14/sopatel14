@@ -44,7 +44,7 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 - **[90 Days of DevOps – 2026](https://github.com/sopatel14/90DaysOfDevOps/tree/master/2026)** — daily progress through a structured 90-day DevOps challenge
 - **[Shell Scripts](https://github.com/sopatel14/shell-scripts)** — collection of shell scripts written during the challenge
 - **[Shell Scripting Cheatsheet](https://github.com/sopatel14/90DaysOfDevOps/blob/master/2026/day-21/shell_scripting_cheatsheet.md)** — quick-reference notes for shell scripting
-- **[DevOps Git Practice](https://github.com/sopatel14/devops-git-practice)** — Git commands and hands-on practice notes
+- **[DevOps Git Practice](https://github.com/sopatel14/devops-git-practice)** — Git commands
 - **[nodejs-getting-started](https://github.com/sopatel14/nodejs-getting-started)** — Node.js app deployed via Jenkins CI/CD pipeline to AWS EC2 using Docker
 
 ---
