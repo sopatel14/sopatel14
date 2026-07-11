@@ -22,7 +22,7 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 | Certificate | Status |
 |---|---|
 | Microsoft Azure Fundamentals (AZ-900) | ✅ Certified |
-| AWS Cloud Practitioner (CLF-C02) | 🔄 In progress |
+
 
 ---
 
@@ -31,10 +31,9 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 | Status | Topic |
 |---|---|
 | ✅ Done | Linux fundamentals, shell scripting, Git basics |
-| 🔄 Revisiting | Docker — rebuilding from scratch, properly this time |
-| 🔄 In progress | AWS Cloud Practitioner certification |
-| ⏳ Up next | Jenkins CI/CD pipelines |
-| ⏳ Up next | Kubernetes — pods, deployments, services |
+| ✅ Done  | Docker — rebuilding from scratch, properly this time |
+| ✅ Done  | Github Actions CI/CD pipelines |
+| ✅ Done | Kubernetes — pods, deployments, services |
 | ⏳ Up next | Terraform & infrastructure as code |
 | ⏳ Up next | Monitoring — Prometheus & Grafana |
 
@@ -45,7 +44,8 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 - **[Shell Scripts](https://github.com/sopatel14/shell-scripts)** — collection of shell scripts written during the challenge
 - **[Shell Scripting Cheatsheet](https://github.com/sopatel14/90DaysOfDevOps/blob/master/2026/day-21/shell_scripting_cheatsheet.md)** — quick-reference notes for shell scripting
 - **[DevOps Git Practice](https://github.com/sopatel14/devops-git-practice)** — Git commands
-- **[nodejs-getting-started](https://github.com/sopatel14/nodejs-getting-started)** — Node.js app deployed via Jenkins CI/CD pipeline to AWS EC2 using Docker
+- **[nodejs-getting-started](https://github.com/sopatel14/nodejs-getting-started)** — Multi-pipeline Node.js project: Jenkins and GitHub Actions CI/CD for Dockerized deployment on AWS EC2
+- **[flask-app-ecs](https://github.com/sopatel14/flask-app-ecs)** - End-to-end DevOps project: Flask + Docker + GitHub Actions CI/CD + AWS ECS with Trivy security gates.
 
 ---
 📍 Thane, India · 💼 [LinkedIn](https://www.linkedin.com/in/sourav-patel-devops/) · 🎯 Goal: DevOps Engineer by end of 2026
