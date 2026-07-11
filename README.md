@@ -31,7 +31,7 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 | Status | Topic |
 |---|---|
 | ✅ Done | Linux fundamentals, shell scripting, Git basics |
-| ✅ Done  | Docker — rebuilding from scratch, properly this time |
+| ✅ Done  | Docker — rebuilding from scratch|
 | ✅ Done  | Github Actions CI/CD pipelines |
 | ✅ Done | Kubernetes — pods, deployments, services |
 | ⏳ Up next | Terraform & infrastructure as code |
