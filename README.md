@@ -34,7 +34,7 @@ IT Support professional transitioning into DevOps — rebuilding my foundations 
 | ✅ Done  | Docker — rebuilding from scratch|
 | ✅ Done  | Github Actions CI/CD pipelines |
 | ✅ Done | Kubernetes — pods, deployments, services |
-| ⏳ Up next | Terraform & infrastructure as code |
+| ✅ Done | Terraform & infrastructure as code |
 | ⏳ Up next | Monitoring — Prometheus & Grafana |
 
 ---
